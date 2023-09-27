@@ -1,5 +1,5 @@
 > La pagina esta orientada a la venta y alquiler de productos ortopedicos, podes escontrar en ella todo lo que necesites saber.
-[![](https://thumbs2.imgbox.com/7c/86/baz3tcBb_t.png)](https://thumbs2.imgbox.com/7c/86/baz3tcBb_t.png)
+> [![](https://thumbs2.imgbox.com/7c/86/baz3tcBb_t.png)](https://thumbs2.imgbox.com/7c/86/baz3tcBb_t.png)
 ### En el proyecto se utilizo:
 - 5 HTML para la descripcion de cada seccion.
 1.- Inicio
